@@ -1,4 +1,9 @@
 # Jenkins
 Jenkins and Github integration repository 
 
-Testing 1...2...3...
+Emmeline Tsen
+Sindhuja Ramini
+Matt DiPietro
+Jonathan Gee
+Rajshree Chauhan
+
